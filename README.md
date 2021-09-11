@@ -1,1 +1,1 @@
-# Coursera_Capstone
+# Data Science Professional Certificate - Coursera Capstone Project
